@@ -9,3 +9,4 @@ Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the strain of co
 * ZLIB 
 * LZMA
 
+Kaggle Submission : https://www.kaggle.com/pranjalb27/computational-predictions-of-protein-in-covid-19/data
