@@ -1,5 +1,7 @@
 # Computational Anaylysis of COVID-19 genome
 
+<p  align="center"><img height="300" src = "https://raw.githubusercontent.com/Bhard27/COVID-Genome-Computational-Analysis/master/images_copy/wiki.png"></p>
+
 This is a project based on the complete genome analysis of the COVID-19 (Sars-cov2) virus, taken from the Wuhan-Hu-1 isolate sample. I cleaned the genome sample to obtain an RNA sequence and I verified the number of base-pairs in the virus. Using the concept of Kolmogorov complexity, I was able to find the lower bound size of a compressed version of the COVID-19 virus. I was able to compress it into an 8.412 kb file using the "LZMA" algorithm. Then I converted the RNA sequence into a DNA string for applying the concepts of "Codons". This helped me to find the essential 20 different types of proteins that can be used to express the genome into the Protein sequence. Further, I made a decoder to make the genome into the Reading-Frame sequence. With the help of this reading frame sequence, I was able to extract the polypeptides and long-chain polypeptides in the virus. Then, I analyzed the Open Reading Frame(ORF) for the Sars-Cov-2 virus which has 10 different proteins that are responsible for the synthesis and catalytic process of COVID-19 in a human body. At last, I was able to verify the length of all the 10 proteins(ORF1a, ORF1b, Spike Glycoprotein, Membrane, ORF6, ORF7a, ORF8, ORF10) thus this project has the proof of all the scientific foundlings using Data science concepts.
 
 ## Kolmogorov complexity
